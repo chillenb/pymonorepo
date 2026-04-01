@@ -4,3 +4,6 @@
 [submodule "mkl_fft"]
 	path = mkl_fft
 	url = https://github.com/IntelPython/mkl_fft.git
+[submodule "mkl_umath"]
+	path = mkl_umath
+	url = https://github.com/IntelPython/mkl_umath.git
