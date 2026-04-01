@@ -1,3 +1,6 @@
 [submodule "numpy"]
 	path = numpy
 	url = https://github.com/chillenb/numpy.git
+[submodule "mkl_fft"]
+	path = mkl_fft
+	url = https://github.com/IntelPython/mkl_fft.git
